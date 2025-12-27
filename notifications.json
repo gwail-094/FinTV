@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sys_update_002",
+    "title": "FinOS Update 1.2",
+    "description": "New features added: Apple TV+ integration and improved video player stability.",
+    "date": "2023-12-28T14:00:00Z",
+    "type": "system"
+  },
+  {
+    "id": "sys_maintenance_001",
+    "title": "Server Maintenance",
+    "description": "The Jellyfin server will be restarting tonight at 3 AM for upgrades.",
+    "date": "2023-12-27T09:00:00Z",
+    "type": "alert"
+  }
+]
