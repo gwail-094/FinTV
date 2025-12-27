@@ -2,7 +2,7 @@
   {
   "id": "message",
   "title": "Official Release of FinTV",
-  "description": "Welcome to FinTV. A sleek Jellyfin Client for LG TV. This Jellyfin Web Client is a project I've been working on for quite some time. I love the way the Apple TV app looks like and just wanted a cool looking client for Jellyfin. I've tried CSS stuff on the official Jellyfin App but that didn't do it for me. I hope you enjoy and like this client and use it a lot. Thank you! If you wanna support me you can also donate :) https://imgur.com/a/FeoAIDB ",
+  "description": "Welcome to FinTV. A sleek Jellyfin Client for LG TV. ",
   "date": "2025-12-27",
   "type": "system"
 }
