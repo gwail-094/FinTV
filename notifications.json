@@ -1,13 +1,13 @@
 [
   {
   "id": "update_v3",
-  "title": "Summer Update",
+  "title": "Winter Update",
   "description": "Check out the new features! We fixed the bugs.",
-  "date": "2025-12-27T12:00:00Z",
+  "date": "2025-12-27",
   "type": "system"
 },
   {
-  "id": "update_v3",
+  "id": "update_v4",
   "title": "Summer Update",
   "description": "Check out the new features!<br><br><img src='https://imgur.com/a/ub8Hzgd' style='width:100%; border-radius:10px;'><br><br>We fixed the bugs.",
   "date": "2024-06-15T12:00:00Z",
